@@ -1,0 +1,186 @@
+{
+  "users": [
+    {
+      "id": "9aa3",
+      "name": "Shareef",
+      "email": "shaikshareef7225@gmail.com",
+      "password": "Ayub@123"
+    },
+    {
+      "id": "8501",
+      "name": "shiva",
+      "email": "shaik@gmail.com",
+      "password": "Ayub@123"
+    },
+    {
+      "id": "41db",
+      "name": "sai",
+      "email": "saikshareef7225@gmail.com",
+      "password": "Ayub@123"
+    },
+    {
+      "id": "7d5b",
+      "name": "Rajeshwari",
+      "email": "Rajeshwari7225@gmail.com",
+      "password": "Ayub@123"
+    },
+    {
+      "id": "fc7a",
+      "name": "SHIVA PRASAD CHAPPA",
+      "email": "a@gmail.com",
+      "password": "Abc123!@#"
+    },
+    {
+      "id": "0b60",
+      "name": "shiva prasad chappa",
+      "email": "shiva1@gmail.com",
+      "password": "Abc123!@#"
+    },
+    {
+      "id": "8c99",
+      "name": "Swapna Gaddam",
+      "email": "gaddamswapna813@gmail.com",
+      "password": "Swapna@123"
+    },
+    {
+      "id": "2eed",
+      "name": "swapna",
+      "email": "gaddamswapna813@gmail.com",
+      "password": "Swapna@123"
+    },
+    {
+      "id": "e4cd",
+      "name": "swapna",
+      "email": "gaddamswapna813@gmail.com",
+      "password": "Swapna@123"
+    },
+    {
+      "id": "df3d",
+      "name": "Swapna Gaddam",
+      "email": "gaddamswapna813@gmail.com",
+      "password": "Swapna@123"
+    }
+  ],
+  "games": [
+    {
+      "id": "1",
+      "title": "Super Mario Bros",
+      "platform": "NES",
+      "condition": "New",
+      "rarity": "Rare",
+      "wishlist": false
+    },
+    {
+      "id": "2",
+      "title": "The Legend of Zelda",
+      "platform": "NES",
+      "condition": "Used",
+      "rarity": "Common",
+      "wishlist": true
+    },
+    {
+      "id": "3",
+      "title": "Sonic the Hedgehog",
+      "platform": "Sega Genesis",
+      "condition": "New",
+      "rarity": "Uncommon",
+      "wishlist": true
+    },
+    {
+      "id": "4",
+      "title": "Super Mario Bros",
+      "platform": "NES",
+      "condition": "New",
+      "rarity": "Rare",
+      "wishlist": false
+    },
+    {
+      "id": "5",
+      "title": "The Legend of Zelda",
+      "platform": "NES",
+      "condition": "Used",
+      "rarity": "Common",
+      "wishlist": false
+    },
+    {
+      "id": "6",
+      "title": "Sonic the Hedgehog",
+      "platform": "Sega Genesis",
+      "condition": "New",
+      "rarity": "Uncommon",
+      "wishlist": false
+    },
+    {
+      "id": "7",
+      "title": "Street Fighter II",
+      "platform": "SNES",
+      "condition": "Used",
+      "rarity": "Common",
+      "wishlist": false
+    },
+    {
+      "id": "8",
+      "title": "Donkey Kong Country",
+      "platform": "SNES",
+      "condition": "New",
+      "rarity": "Rare",
+      "wishlist": false
+    },
+    {
+      "id": "9",
+      "title": "Final Fantasy VII",
+      "platform": "PlayStation",
+      "condition": "Used",
+      "rarity": "Legendary",
+      "wishlist": false
+    },
+    {
+      "id": "10",
+      "title": "Crash Bandicoot",
+      "platform": "PlayStation",
+      "condition": "New",
+      "rarity": "Uncommon",
+      "wishlist": false
+    },
+    {
+      "id": "11",
+      "title": "GoldenEye 007",
+      "platform": "N64",
+      "condition": "Used",
+      "rarity": "Legendary",
+      "wishlist": false
+    },
+    {
+      "id": "12",
+      "title": "Halo: Combat Evolved",
+      "platform": "Xbox",
+      "condition": "New",
+      "rarity": "Rare",
+      "wishlist": false
+    },
+    {
+      "id": "13",
+      "title": "Gears of War",
+      "platform": "Xbox 360",
+      "condition": "New",
+      "rarity": "Common",
+      "wishlist": false
+    },
+    {
+      "id": "14",
+      "title": "The Witcher 3",
+      "platform": "PS4",
+      "condition": "Used",
+      "rarity": "Legendary",
+      "wishlist": false
+    },
+    {
+      "id": "15",
+      "title": "Minecraft",
+      "platform": "PC",
+      "condition": "New",
+      "rarity": "Common",
+      "wishlist": false
+    }
+  ]
+}
